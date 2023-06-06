@@ -1,4 +1,4 @@
-# SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model
+# SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model [[Arxiv]](https://arxiv.org/abs/2306.02245)
 
 <div align=center>
 <img src='./images/mask_vis.gif', width="480">
