@@ -98,8 +98,8 @@ Tested on single NVIDIA GeForce RTX 4090 with `pytorch==1.12.1, cuda==11.3`, [lo
 
     | Metric | mAP | mAPH |
     | ------ | ------- | ------- |
-    | RANGE_TYPE_VEHICLE_[0, 30)_LEVEL_1| 0.195088 | 0.133009 |
-    |RANGE_TYPE_VEHICLE_[0, 30)_LEVEL_2| 0.190502 | 0.129827 |
+    | RANGE_TYPE_VEHICLE_[0, 30)_LEVEL_1| 19.51 | 13.30 |
+    |RANGE_TYPE_VEHICLE_[0, 30)_LEVEL_2| 19.05 | 12.98 |
 
 - Qualitative results: 
 ![](images/paper_vis.png)
