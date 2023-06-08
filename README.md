@@ -107,6 +107,23 @@ Tested on single NVIDIA GeForce RTX 4090 with `pytorch==1.12.1, cuda==11.3`, [lo
 ## What's next
 Although our method is only an __initial attempt__, we believe it shows the great possibility and opportunity to unleash the potential of foundation models like SAM on 3D vision tasks, especially on 3D object detection. With technologies like __few-shot learning__ and __prompt engineering__, we can take advantage of vision foundation models more effectively to better solve 3D tasks, especially considering the vast difference between scales of 2D and 3D data.
 
+## Citation
+```
+@article{kirillov2023segment,
+  title={Segment anything},
+  author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C and Lo, Wan-Yen and others},
+  journal={arXiv preprint arXiv:2304.02643},
+  year={2023}
+}
+
+@article{zhang2023sam3d,
+  title={SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model},
+  author={Zhang, Dingyuan and Liang, Dingkang and Yang, Hongcheng and Zou, Zhikang and Ye, Xiaoqing and Liu, Zhe and Bai, Xiang},
+  journal={arXiv preprint arXiv:2306.02245},
+  year={2023}
+}
+```
+
 ##  Acknowledgement
 - [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
 - [segment-anything](https://github.com/facebookresearch/segment-anything)
