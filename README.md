@@ -109,17 +109,10 @@ Although our method is only an __initial attempt__, we believe it shows the grea
 
 ## Citation
 ```
-@article{kirillov2023segment,
-  title={Segment anything},
-  author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C and Lo, Wan-Yen and others},
-  journal={arXiv preprint arXiv:2304.02643},
-  year={2023}
-}
-
 @article{zhang2023sam3d,
   title={SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model},
   author={Zhang, Dingyuan and Liang, Dingkang and Yang, Hongcheng and Zou, Zhikang and Ye, Xiaoqing and Liu, Zhe and Bai, Xiang},
-  journal={arXiv preprint arXiv:2306.02245},
+  journal={Science China Information Sciences},
   year={2023}
 }
 ```
